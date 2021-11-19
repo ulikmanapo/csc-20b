@@ -69,7 +69,7 @@
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
         <button class="button button2">subscribe</button>
         </form>
-	<form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
+	<form action='https://https://chest-avto.ru/' target='_blank'>
         <button class="button button2">SITE</button>
 	    <h4>Our adress:Bishkek. Ankara 103 <br>Phone number:+996501202404</h4>
     </body>
