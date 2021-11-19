@@ -58,7 +58,7 @@
 </style>
 <center>
 
-    <body style="background-color:https://cdn.motor1.com/images/mgl/kknQe/s1/2015-5818702016-lexus-es-300h1.jpg;">
+    <body style="background-color:purple">
         <h1>Uluk Sakyev<br> CHEST AVTO </h1>
         <h3>ULIKMANAPOo CAR DETEILING!</h3>
         <p> We sell new cars.  .</p>
@@ -67,7 +67,7 @@
         <button class="button button1">CHEST AVTO</button>
         </form>
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
-        <button class="button button2">sumbit</button>
+        <button class="button button2">subscribe</button>
         </form>
 	    <h4>Our adress:Bishkek. Ankara 103 <br>Phone number:+996501202404</h4>
     </body>
