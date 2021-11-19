@@ -59,14 +59,14 @@
 <center>
 
     <body style="background-color:beige;">
-        <h1>Uluk Sakyev<br>Web junior Developer and designer</h1>
+        <h1>Uluk Sakyev<br>Web CHEST AVTO </h1>
         <h3>ULIKMANAPO CAR DETEILING!</h3>
         <p> I sell Lexus lx600. I am perekupshi! .</p>
         <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:300px;height:300px;'> 
-	<form action='https://github.com/zamlabek' target='_blank'>
+	<form action='https://github.com/ulik' target='_blank'>
         <button class="button button1">git hub</button>
         </form>
-        <form action='https://instagram.com/abdr.gg?utm_medium=copy_link' target='_blank'>
+        <form action='https://instagram.com/uliktop?utm_medium=copy_link' target='_blank'>
         <button class="button button2">log in</button>
         </form>
     </body>
