@@ -66,7 +66,7 @@
 	<form action='https://github.com/ulik' target='_blank'>
         <button class="button button1">git hub</button>
         </form>
-        <form action='https://instagram.com/uliktop?utm_medium=copy_link' target='_blank'>
+        <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
         <button class="button button2">log in</button>
         </form>
 	    <h4>Our adress:Bishkek. Ankara 103 <br>Phone number:+996501202404</h4>
