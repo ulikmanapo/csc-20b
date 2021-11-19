@@ -53,7 +53,7 @@
     
     .button2:hover {
         background-color: pink;
-        color: white;
+        color: blue;
     }
 </style>
 <center>
@@ -62,13 +62,15 @@
         <h1>Uluk Sakyev<br> CHEST AVTO </h1>
         <h3></h3>
         <p> .  .</p>
-        <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:500px;height:300px;  margin-left: 900px;border-radius:50%;'> 
+        <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:500px;height:300px;  margin-left: 800px;border-radius:50%;'> 
 	<form action='https://github.com/ulik' target='_blank'>
         <button class="button button1">CHEST AVTO</button>
         </form>
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
         <button class="button button2">subscribe</button>
         </form>
+	<form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
+        <button class="button button2">SITE</button>
 	    <h4>Our adress:Bishkek. Ankara 103 <br>Phone number:+996501202404</h4>
     </body>
 </center>
