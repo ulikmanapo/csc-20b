@@ -62,12 +62,12 @@
         <h1>Uluk Sakyev<br>Web CHEST AVTO </h1>
         <h3>ULIKMANAPOo CAR DETEILING!</h3>
         <p> I sell Lexus lx600. I am perekupshi! .</p>
-        <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:560px;height:560px;'> 
+        <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:360px;height:560px;'> 
 	<form action='https://github.com/ulik' target='_blank'>
-        <button class="button button1">git hub</button>
+        <button class="button button1">CHEST AVTO</button>
         </form>
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
-        <button class="button button2">log in</button>
+        <button class="button button2">sumbit</button>
         </form>
 	    <h4>Our adress:Bishkek. Ankara 103 <br>Phone number:+996501202404</h4>
     </body>
