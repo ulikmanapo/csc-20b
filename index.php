@@ -64,7 +64,7 @@
         <p> .  .</p>
         <img src='https://www.youtube.com/channel/UCn1YQ4g_kKwJbt0MUVZfY7A' alt='Uluk' style='width:200px;height:150px;  margin-left: 800px;border-radius:50%;'> 
 	<form action='https://github.com/ulik' target='_blank'>
-        <button class="button button1">CHEST AVTO YOUTUBE</button>
+        <button class="button button1">CHEST AVTO</button>
         </form>
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
         <button class="button button2">subscribe</button>
