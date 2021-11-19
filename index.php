@@ -58,11 +58,11 @@
 </style>
 <center>
 
-    <body style="background-color:white;">
-        <h1>Uluk Sakyev<br>Web CHEST AVTO </h1>
+    <body style="background-color:https://cdn.motor1.com/images/mgl/kknQe/s1/2015-5818702016-lexus-es-300h1.jpg;">
+        <h1>Uluk Sakyev<br> CHEST AVTO </h1>
         <h3>ULIKMANAPOo CAR DETEILING!</h3>
-        <p> I sell Lexus lx600. I am perekupshi! .</p>
-        <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:360px;height:560px;'> 
+        <p> We sell new cars.  .</p>
+        <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:250px;height:300px;'> 
 	<form action='https://github.com/ulik' target='_blank'>
         <button class="button button1">CHEST AVTO</button>
         </form>
