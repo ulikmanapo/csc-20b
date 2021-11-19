@@ -47,12 +47,12 @@
     .button2 {
         background-color: white;
         color: black;
-        border: 2px solid deeppink;
+        border: 2px solid pink;
     }
     /* Instagram */
     
     .button2:hover {
-        background-color: deeppink;
+        background-color: pink;
         color: white;
     }
 </style>
@@ -60,11 +60,11 @@
 
     <body style="background-color:beige;">
         <h1>Uluk Sakyev<br>Web junior Developer and designer</h1>
-        <h3>I am ULUK I like you)!</h3>
-        <p> Since beginning my journey nearly 6 years ago. I have developed amazing web applications.</p>
-        <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:200px;height:200px;  margin-left: 350px;'> 
+        <h3>ULIKMANAPO CAR DETEILING!</h3>
+        <p> I sell Lexus lx600. I am perekupshi! .</p>
+        <img src='https://photos-kl.kcdn.kz/kolesa-read/736716e7fb56c116739002f0bc7c3687b03b1409-1193x671.jpg' alt='Uluk' style='width:300px;height:300px;'> 
 	<form action='https://github.com/zamlabek' target='_blank'>
-        <button class="button button1">Github</button>
+        <button class="button button1">git hub</button>
         </form>
         <form action='https://instagram.com/abdr.gg?utm_medium=copy_link' target='_blank'>
         <button class="button button2">log in</button>
