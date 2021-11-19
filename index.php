@@ -62,7 +62,7 @@
         <h1>Uluk Sakyev<br> CHEST AVTO </h1>
         <h3></h3>
         <p> .  .</p>
-        <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:500px;height:300px;  margin-left: border-radius:50%;'> 
+        <img src='https://static.tildacdn.com/tild3465-6263-4338-a664-356664363933/113.png' alt='Uluk' style='width:500px;height:300px;  margin-left: 900pxborder-radius:50%;'> 
 	<form action='https://github.com/ulik' target='_blank'>
         <button class="button button1">CHEST AVTO</button>
         </form>
