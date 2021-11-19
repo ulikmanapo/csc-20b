@@ -62,8 +62,8 @@
         <h1>Uluk Sakyev<br> CHEST AVTO </h1>
         <h3></h3>
         <p> .  .</p>
-        <img src='https://www.youtube.com/channel/UCn1YQ4g_kKwJbt0MUVZfY7A' alt='Uluk' style='width:200px;height:150px;  margin-left: 800px;border-radius:50%;'> 
-	<form action='https://github.com/ulik' target='_blank'>
+        <img src='https://yt3.ggpht.com/ytc/AKedOLSvSzbbz17GZeRpV9kz42P04xAYiuQRnWPgm1On6g=s900-c-k-c0x00ffffff-no-rj' alt='Uluk' style='width:200px;height:150px;  margin-left: 800px;border-radius:50%;'> 
+	<form action='https://www.youtube.com/channel/UCn1YQ4g_kKwJbt0MUVZfY7A' target='_blank'>
         <button class="button button1">CHEST AVTO</button>
         </form>
         <form action='https://instagram.com/sakyevv_?utm_medium=copy_link' target='_blank'>
